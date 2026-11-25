@@ -84,5 +84,6 @@ If colours look broken in your terminal, set `USE_COLOR` to `0` in `include/util
 
 ## Author
 
-Your Name - Your College - Your Roll Number
+PRADEEP AGNIHOTRI - AKS UNIVERSITY - B2655R101A1123
+HARDIK SEWANI - AKS UNIVERSITY - B2655R101A1107
 
