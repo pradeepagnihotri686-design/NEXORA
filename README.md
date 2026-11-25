@@ -1,5 +1,4 @@
-# NEXORA
-Student Management System in C
+
 # Student 360 - Complete Student Management System (C)
 
 A console-based application written in C that gives a **360-degree view of every student**: profile, academics, attendance, fees and extra-curricular activities, all in one report card.
