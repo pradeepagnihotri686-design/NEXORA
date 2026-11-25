@@ -83,7 +83,35 @@ If colours look broken in your terminal, set `USE_COLOR` to `0` in `include/util
 - GUI or web front end
 
 ## Author
+## 👨‍💻 Team Members
 
-PRADEEP AGNIHOTRI - AKS UNIVERSITY - B2655R101A1123
-HARDIK SEWANI - AKS UNIVERSITY - B2655R101A1107
+| Name | Role |
+|---|---|
+| Pradeep Agnihotri | Developer |
+| Member 2 Name | Developer |
+| Member 3 Name | Developer |
+| Member 4 Name | Developer |
+
+---
+
+## 🤝 Team Project
+
+Student360 was developed collaboratively as a group project.
+Each team member contributed to the development, implementation,
+testing, or documentation of the project.
+
+
+## 🤖 AI Assistance & Acknowledgement
+
+During the development of Student360, we used AI tools such as
+ChatGPT (OpenAI) and Claude (Anthropic) for assistance with:
+
+- Understanding C programming concepts
+- Debugging and resolving errors
+- Improving code structure and modularity
+- Generating ideas and documentation
+- Learning and refining implementation approaches
+
+The project was developed, reviewed, tested, and implemented by the team,
+with AI tools used as supportive learning and development assistants.
 
