@@ -82,15 +82,12 @@ If colours look broken in your terminal, set `USE_COLOR` to `0` in `include/util
 - Semester-wise records
 - GUI or web front end
 
-## Author
-## 👨‍💻 Team Members
+## 👥 Project Team (Collaborators)
 
-| Name | Role |
-|---|---|
-| Pradeep Agnihotri | Developer |
-| Member 2 Name | Developer |
-| Member 3 Name | Developer |
-| Member 4 Name | Developer |
+| S.No. | Name | Roll Number | Role |
+|---|---|---|---|
+| 1 | Pradeep Agnihotri | B2655R101A1123 | Developer |
+| 2 | Hardik Sewani| B2655R101A1107 | Developer |
 
 ---
 
